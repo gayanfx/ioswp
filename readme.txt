@@ -1,7 +1,7 @@
 === ioswp ===
 Tags: mobile, iPhone, iPad, Android, mobile theme, 
-Author: Gayan
-Author URI: http://ioswp.com
+Author: Rush
+Author URI: http://gayan.com.au
 Requires at least: 2.8
 Tested up to: 3.3.2
 Stable tag: 0.8
